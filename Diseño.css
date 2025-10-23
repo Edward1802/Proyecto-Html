@@ -1,0 +1,43 @@
+        body{
+            background-image: url("C:\\Users\\DELL\\Documents\\Proyec\\pngtree-aesthetic-background-pink-pastel-image_746353.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        h1{
+            text-align: center;
+            color: #f01658;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-shadow:
+             4px 4px 3px #712bda;
+        }
+
+        h2{
+            text-align: center;
+            color: #f01658;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+        }
+
+        p {
+        line-height: 1.6;
+        font-size: 16px;
+        color: #333;
+        margin: 10px 20px;
+        text-align: justify;
+        }
+
+        img {
+        display: block;
+        margin: 0 auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(216, 17, 17, 0.2);
+    }
+
+    table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse; /* Para que los bordes se vean limpios */
+    border: 4px solid #00c8ff; /* Color del borde de la tabla */
+    border-radius: 15px; /* Bordes redondeados */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3); /* Sombra suave */
+}
